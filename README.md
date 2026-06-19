@@ -1,18 +1,23 @@
-# Projektname
+# Project Name
 
-Die Anwendung baut aus vorgegebenen Sätzen neue Sätze zusammen.
+The application combines given sentences to form new ones.
+The my-wordelizer-app is a collaborative open-source project that uses the “Prose-Builder,” a simple tool for
+creating prose texts based on sentences imported from dependencies. 
+(Die my-wordelizer-app ist ein kollaboratives Open-Source-Projekt, mit Hilfe des  „Prose-Builder“, einem einfachen Tool zur
+Erstellung von Prosatexten auf der Grundlage von Sätzen, die aus Abhängigkeiten importiert werden.) 
 
 ## Installation
-Schritte zur Installation …
+Installation steps …
 
-## Nutzung
-Wie starte ich das Projekt? Beispiele, Screenshots …
+## Usage
+How do I start the project? Examples, screenshots …
 
-## Technologien
-- Sprache: …
+## Technologies
+- Language: …
 
-## Mitwirken
-Kurze Hinweise für Beiträge …
+## Contribute
+Brief guidelines for contributions …
 
-## Lizenz
-(Optional)
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
