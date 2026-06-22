@@ -12,6 +12,15 @@ Installation steps …
 ## Usage
 How do I start the project? Examples, screenshots …
 
+This package provides `SimpleSentence`, which can be used with `ProseBuilder`.
+
+Example:
+
+```java
+import de.htw_berlin.fb4.lisbert.SimpleSentence;
+
+SimpleSentence sentence = new SimpleSentence("Example text");
+proseBuilder.register(sentence);
 ## Technologies
 - Language: …
 
