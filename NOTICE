@@ -1,1 +1,38 @@
+# Notices for the my-wordlizer-app
 
+This content is produced and maintained by Lisa Hausenblas.
+
+* Project home: https://github.com/Lisbert01/my-wordlizer-app
+
+## Copyright
+
+All content is the property of the respective authors or their employers. For
+more information regarding authorship of content, please consult the listed
+source code repository logs.
+
+## Declared Project Licenses
+
+This program and the accompanying materials are made available under the
+terms of the MIT License which is available at
+https://opensource.org/license/mit
+
+SPDX-License-Identifier: MIT
+
+## Source Code
+
+The project maintains the following source code repositories:
+
+* https://github.com/Lisbert01/my-wordlizer-app
+
+## Third-Party Dependencies
+
+See [DEPENDENCIES](DEPENDENCIES.md)
+
+## Cryptography
+
+Content may contain encryption software. The country in which you are currently
+may have restrictions on the import, possession, and use, and/or re-export to
+another country, of encryption software. BEFORE using any encryption software,
+please check the country's laws, regulations and policies concerning the import,
+possession, or use, and re-export of encryption software, to see if this is
+permitted.
