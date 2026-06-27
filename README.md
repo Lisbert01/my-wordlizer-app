@@ -1,23 +1,51 @@
-# Project Name
+# My-wordlizer-app
 
-The application combines given sentences to form new ones.
-The my-wordelizer-app is a collaborative open-source project that uses the “Prose-Builder,” a simple tool for
-creating prose texts based on sentences imported from dependencies. 
-(Die my-wordelizer-app ist ein kollaboratives Open-Source-Projekt, mit Hilfe des  „Prose-Builder“, einem einfachen Tool zur
-Erstellung von Prosatexten auf der Grundlage von Sätzen, die aus Abhängigkeiten importiert werden.) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
+The my‑wordlizer‑app demonstrates how Prose‑Builder turns simple sentences into connected prose and outputs it to the console.
 
 ## Installation
-Installation steps …
 
-## Usage
-How do I start the project? Examples, screenshots …
+To install and run the application, Maven is required 
+to manage the dependencies. 
 
-## Technologies
-- Language: …
+- **Clone the repository:**
 
-## Contribute
-Brief guidelines for contributions …
+  ```shell
+  git clone https://github.com/Lisbert01/my-wordlizer-app.git
+  cd my-wordlizer-app
+  ```
+
+- **Erstellen des Projekts mit Maven:**
+
+  ```shell
+  mvn clean install
+  ```
+   ```
+
+## Dependency on Prose-Builder
+
+My-Prose-App relies on Prose-Builder, which is included as a Maven dependency in the 
+`pom.xml`:
+
+Repository URL: https://maven.pkg.github.com/bs-jokri/prose-builder
+(https://github.com/bs-jokri/prose-builder)
+
+```shell
+<dependency>
+  <groupId>de.htw_berlin.fb4.ossd</groupId>
+  <artifactId>prose_builder</artifactId>
+  <version>1.0-0</version>
+</dependency>
+```
+
+   
+## Contributing
+
+For contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 
 ## License
-This project is licensed under the MIT License – see the LICENSE file for details.
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
